@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Valia Calda Hotel is a family business established in 1974. It is located at an altitude of 1400m in the village of Perivoli, 14km from the entrance of Valia Calda national park in the Pindos mountain range. The capacity is twenty double rooms with all the subsidiary facilities to cater for guests’ needs.'
-datePublished: '2016-03-14T21:18:26.941Z'
-dateModified: '2016-03-14T21:18:04.042Z'
+datePublished: '2016-03-14T21:22:29.159Z'
+dateModified: '2016-03-14T21:18:37.450Z'
 title: ''
 author: []
 authors: []
